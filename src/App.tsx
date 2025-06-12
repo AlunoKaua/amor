@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Heart, Sparkles, Star } from 'lucide-react';
 
 function App() {
@@ -69,13 +69,13 @@ function App() {
                 <p className="text-lg md:text-xl lg:text-2xl text-gray-200 leading-relaxed mb-8">
                   Você não é apenas a pessoa que eu amo, você é minha melhor amiga, minha confidente, 
                   minha parceira de aventuras e sonhos. Com você, descobri que o amor verdadeiro existe 
-                  e que pode ser ainda mais lindo do que eu imaginava.
+                  e que pode ser ainda mais lindo do que eu imaginava. e sim ainda sinto saudades de poder compartilhar minhas metas e sonhos com você e poder de ouvir todas as tardes.
                 </p>
                 
                 <p className="text-lg md:text-xl lg:text-2xl text-gray-200 leading-relaxed mb-8">
-                  Cada dia ao seu lado é um presente. Cada risada compartilhada, cada abraço apertado, 
-                  cada momento de silêncio confortável... tudo isso constrói a história mais bonita 
-                  que eu poderia viver.
+                  espero que você esteja bem e que Cada risada compartilhada, cada abraço apertado, 
+                  cada momento... tudo isso constrói a história mais bonita 
+                  que eu poderia viver com você.
                 </p>
                 
                 <div className="border-t border-pink-500/20 pt-8 mt-8">
