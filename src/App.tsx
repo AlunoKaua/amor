@@ -74,7 +74,7 @@ function App() {
                 
                 <p className="text-lg md:text-xl lg:text-2xl text-gray-200 leading-relaxed mb-8">
                   espero que você esteja bem e que Cada risada compartilhada, cada abraço apertado, 
-                  cada momento... tudo isso constrói a história mais bonita 
+                  cada momento... tudo isso constrói a história mais bonita
                   que eu poderia viver com você.
                 </p>
                 
